@@ -76,7 +76,6 @@ def all_holidays_with_bbq(holiday_hash)
   bbq_h = []
 holiday_hash.each do |season, holiday|
   season.each do |i|
-    i.each do
     if i.include?{"BBQ"}
       bbq_h << k.keys
     end
