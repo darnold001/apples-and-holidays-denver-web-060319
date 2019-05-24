@@ -80,10 +80,9 @@ holiday_hash.each do |season, holiday|
     if i.include?{"BBQ"}
       bbq_h << k.keys
     end
-    puts bbq_h
   end
 end
-bbq_h
+puts bbq_h
     #itemk.each do |holiday, supplies|
     #  puts "#{holiay} #{supplies}"
 
