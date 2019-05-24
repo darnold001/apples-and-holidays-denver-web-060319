@@ -80,7 +80,6 @@ holiday_hash.each do |season, holiday|
       bbq_h << k.keys
     end
   end
-end
 puts bbq_h
 
   # return an array of holiday names (as symbols) where supply lists
