@@ -86,5 +86,5 @@ holiday_hash.each do |season, holiday|
   # include the string "BBQ"
 end
 end
-puts bbq_h
+bbq_h
 end
