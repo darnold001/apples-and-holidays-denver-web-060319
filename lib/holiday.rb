@@ -81,6 +81,7 @@ holiday_hash.each do |season, holiday|
     #include?("BBQ")
      bbq_h << holiday
     end
+  end
 puts bbq_h
 
   # return an array of holiday names (as symbols) where supply lists
